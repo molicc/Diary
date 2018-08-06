@@ -2,3 +2,5 @@
 - 2018/8/3 [理解反射](https://app.yinxiang.com/shard/s46/nl/21175129/07dc4cc9-b6f7-4c61-bddc-d9f427eff1ed)
 - 2018/8/3 [接口的意义](https://app.yinxiang.com/shard/s46/nl/21175129/549fc130-5fec-439e-8f7e-bdb5986f2b5c)
 - 2018/8/3 [JVM中对象的内存布局](https://app.yinxiang.com/shard/s46/nl/21175129/84f9f0ee-6a9d-4353-9de0-cd9c854316e4)
+- 2018/8/3 [List、Set、Map的区别与使用](https://app.yinxiang.com/shard/s46/nl/21175129/d48d5618-625e-48ee-9e8f-6972f7442cc2)
+- 2018/8/3 [深入理解HashSet](https://app.yinxiang.com/shard/s46/nl/21175129/7d7ff86b-00a0-4cff-8c71-837847d9cc1e)
