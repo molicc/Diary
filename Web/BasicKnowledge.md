@@ -1,1 +1,1 @@
-- 2018/8/3 [类选择器](https://app.yinxiang.com/shard/s46/nl/21175129/91a48d46-c6bc-4c4e-ac43-f90146fffa45)
+- 2018/8/3 [类选择器](http://www.evernote.com/l/At7LgPHw9oxA3aZiuheLyxc6u8e3_-P999E/)
